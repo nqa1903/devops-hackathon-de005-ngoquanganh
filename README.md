@@ -10,4 +10,4 @@
 - **Cổng Nginx (PORT):** 8086
 - **Thư mục Web root:** /var/www/devops-hackathon-de006-ngoquanganh/src
 - **File Server Block:** /etc/nginx/sites-available/ngoquanganh-cntt3.conf
-- **Repository GitHub:** https://github.com/ngoquanganh/devops-hackathon-de006-ngoquanganh
+- **Repository GitHub:** https://github.com/nqa1903/devops-hackathon-de006-ngoquanganh
